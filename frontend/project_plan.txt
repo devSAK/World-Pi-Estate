@@ -18,3 +18,8 @@
 [Day-3] : Add Tailwind CSS Dependancies.
           - npm install -D tailwindcss postcss autoprefixer
           - npx tailwindcss init -p
+
+[Day-4] : Create Pages and Routes
+          Add Pages
+          Add React Router Dependancies
+          - npm install react-router-dom
