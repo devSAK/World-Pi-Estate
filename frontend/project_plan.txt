@@ -5,3 +5,16 @@
           - npm install
           Run the Project
           - npm run dev
+
+[Day-2] : Create and Commit the Code into Github
+          - git init
+          - git add .
+          - git commit -m "Very First Commit"
+
+          - git remote add origin git@github.com:devSAK/World-Pi-Estate.git
+          - git branch -M main
+          - git push -u origin main
+
+[Day-3] : Add Tailwind CSS Dependancies.
+          - npm install -D tailwindcss postcss autoprefixer
+          - npx tailwindcss init -p
