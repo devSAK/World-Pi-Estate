@@ -1,18 +1,18 @@
-[Day-1] : Create directory structure (World Pi Estate)
-          Create a NPM project (Frontend)
+[Day-1] : Create directory structure (World Pi Estate).
+          Create a NPM project (Frontend).
           -- npm create vite@latest frontend
           -- cd frontend/
           Install all Dependancies.
           -- npm install
-          Run the Project (Frontend)
+          Run the Project (Frontend).
           -- npm run dev / yarn run dev
 
-[Day-2] : Create and Commit the Code into Github
+[Day-2] : Create and Commit the Code into Github.
           -- cd ..
           -- git init
           -- git add .
           -- git commit -m "Very First Commit"
-          Create a new Repository on Github
+          Create a new Repository on Github.
           -- git remote add origin git@github.com:devSAK/World-Pi-Estate.git
           -- git branch -M main
           -- git push -u origin main
@@ -22,38 +22,40 @@
           -- npm install -D tailwindcss postcss autoprefixer
           -- npx tailwindcss init -p
 
-[Day-4] : Create Pages and Routes
-          Add Pages
-          Install React Router Dependancies
+[Day-4] : Create Pages and Routes.
+          Add Pages.
+          Install React Router Dependancies.
           -- npm install react-router-dom
 
-[Day-5] : Create Header Component
-          Add Components
-          Install React Icons Dependancies
+[Day-5] : Create Header Component.
+          Add Components.
+          Install React Icons Dependancies.
           -- npm install react-icons
 
 --------------------------------------------------
-[Day-6] : Create and Run the Server (Backend)
-          Add Backend Folder
+[Day-6] : Create and Run the Server (Backend).
+          Add Backend Folder.
           -- cd ..
           -- npm init -y
-          Install Express Dependencies
+          Install Express Dependencies.
           -- npm install express
-          Run the Project (Backend)
+          Run the Project (Backend).
           -- cd backend/
           -- node index.js
-          Install Nodemon Dependancies
+          Install Nodemon Dependancies.
           -- cd ..
           -- npm install nodemon
           -- npm run dev / yarn run dev
 
-[Day-7] : Connect to Database
-          Install Mongoose Dependencies
+[Day-7] : Connect to Database.
+          Install Mongoose Dependencies.
           -- npm install mongoose
           Create a new Project on MongoDB
-          and Connection String
-          Install Dotenv Dependancies
+          and Connection String.
+          Install Dotenv Dependancies.
           -- npm install dotenv
 
+[Day-8] : Create User Model.
+          
           
 
