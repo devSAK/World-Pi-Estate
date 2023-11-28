@@ -21,5 +21,10 @@
 
 [Day-4] : Create Pages and Routes
           Add Pages
-          Add React Router Dependancies
+          Install React Router Dependancies
           - npm install react-router-dom
+
+[Day-5] : Create Header Component
+          Add Components
+          Install React Icons Dependancies
+          - npm install react-icons
