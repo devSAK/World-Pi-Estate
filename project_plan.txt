@@ -12,7 +12,7 @@
           -- git init
           -- git add .
           -- git commit -m "Very First Commit"
-
+          Create a new Repository on Github
           -- git remote add origin git@github.com:devSAK/World-Pi-Estate.git
           -- git branch -M main
           -- git push -u origin main
@@ -46,4 +46,14 @@
           -- cd ..
           -- npm install nodemon
           -- npm run dev / yarn run dev
+
+[Day-7] : Connect to Database
+          Install Mongoose Dependencies
+          -- npm install mongoose
+          Create a new Project on MongoDB
+          and Connection String
+          Install Dotenv Dependancies
+          -- npm install dotenv
+
+          
 
