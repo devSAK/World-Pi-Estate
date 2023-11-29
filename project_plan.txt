@@ -52,10 +52,17 @@
           -- npm install mongoose
           Create a new Project on MongoDB
           and Connection String.
+          Add Env.
           Install Dotenv Dependancies.
           -- npm install dotenv
 
 [Day-8] : Create User Model.
+          Add Models.
+
+[Dat-9] : Create a Test API Route.
+          Add Routes.
+          Add Controllers.
+          
           
           
 
