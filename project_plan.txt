@@ -74,4 +74,6 @@
 
 [Day-11] : Create a Middleware and a Function to Handle 
            Possible Errors.
+
+[Day-12] : Complete SignUp Page UI.
            
