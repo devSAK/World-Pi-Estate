@@ -79,3 +79,9 @@
 
 [Day-13] : Complete SignUp Page Functionality.
           Add Proxy.
+
+[Day-14] : Create SignIn API Route.
+          Create Hash Token including the Email of the 
+          User.
+          -- npm install jsonwebtoken
+          
