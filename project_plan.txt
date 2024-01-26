@@ -65,15 +65,17 @@
           Add Controllers.
           
 [Day-10] : Create SignUp API Route.
-           Install Punycode Dependencies (Terminal Error)
-           -- npm install punycode --save
-           SignUp User Created, Check in MongoDB.
-           Need to Hide User Password.
-           -- npm install bcryptjs
-           Add Error Handling for Unique User Email Id.
+          Install Punycode Dependencies (Terminal Error)
+          -- npm install punycode --save
+          SignUp User Created, Check in MongoDB.
+          Need to Hide User Password.
+          -- npm install bcryptjs
+          Add Error Handling for Unique User Email Id.
 
 [Day-11] : Create a Middleware and a Function to Handle 
-           Possible Errors.
+          Possible Errors.
 
 [Day-12] : Complete SignUp Page UI.
-           
+
+[Day-13] : Complete SignUp Page Functionality.
+          Add Proxy.
