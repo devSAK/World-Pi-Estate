@@ -95,4 +95,9 @@
           cd frontend/
           -- npm install redux-persist
           
+[Day-18] : Add Google OAuth Functionality.
+          Need to Create a Google Firebase Account.
+          cd frontend/
+          -- npm install firebase
+          Add Env.
           

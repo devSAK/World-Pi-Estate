@@ -16,6 +16,10 @@ const userSchema = new mongoose.Schema(
       type: String,
       required: true,
     },
+    avatar: {
+      type: String,
+      default: "https://images.app.goo.gl/Q9cQtwMpvq2mvGKT9",
+    },
   },
   { timestamps: true }
 );
