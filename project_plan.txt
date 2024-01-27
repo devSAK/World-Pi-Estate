@@ -84,4 +84,15 @@
           Create Hash Token including the Email of the 
           User.
           -- npm install jsonwebtoken
+
+[Day-15] : Complete SignIn Page Functionality.
+
+[Day-16] : Add Redux Toolkit.
+          cd frontend/
+          -- npm install @reduxjs/toolkit react-redux
+
+[Day-17] : Add Redux Persist.
+          cd frontend/
+          -- npm install redux-persist
+          
           
