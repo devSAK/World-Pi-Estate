@@ -90,5 +90,9 @@
 [Day-16] : Add Redux Toolkit.
           cd frontend/
           -- npm install @reduxjs/toolkit react-redux
+
+[Day-17] : Add Redux Persist.
+          cd frontend/
+          -- npm install redux-persist
           
           
