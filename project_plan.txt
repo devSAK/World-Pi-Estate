@@ -103,4 +103,6 @@
 
 [Day-19] : Update the Header and Make the Profile Page 
            Private.
+
+[Day-20] : Complete Profile Page UI.
           
