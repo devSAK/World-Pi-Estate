@@ -100,4 +100,7 @@
           cd frontend/
           -- npm install firebase
           Add Env.
+
+[Day-19] : Update the Header and Make the Profile Page 
+           Private.
           
