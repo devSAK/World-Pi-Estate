@@ -105,4 +105,7 @@
            Private.
 
 [Day-20] : Complete Profile Page UI.
+
+[Day-21] : Complete Image Upload Functionality.
+           Need to Setup Storage in Firebase.
           
